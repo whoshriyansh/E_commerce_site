@@ -23,7 +23,7 @@ import Product8 from "../assets/Product8.png";
 import Product9 from "../assets/Product9.png";
 import Product10 from "../assets/Product10.png";
 import Product11 from "../assets/Product11.png";
-import Product12 from "../assets/Product12.png";
+import Product12 from "../../public/Product12.png";
 
 import linkedin from "../assets/linkedin.png";
 import github from "../assets/github.png";
